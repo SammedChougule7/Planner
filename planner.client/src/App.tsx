@@ -7,7 +7,7 @@ function App() {
     return (
         <div>
             <h1>Planner</h1>
-            <p>Hello World !!</p>
+            <p className='bg-gray-500'>Hello World !!</p>
         </div>
     );
 
