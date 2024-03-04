@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Planner.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+338084deac38cc9f45a1638e3b5ebe8765421197")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Planner.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Planner.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

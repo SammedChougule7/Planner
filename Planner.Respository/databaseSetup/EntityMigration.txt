@@ -1,0 +1,4 @@
+@echo on
+:: Scaffold-DbContext [-Connection] [-Provider] [-OutputDir] [-Context] [-Schemas>] [-Tables>] [-DataAnnotations] [-Force] [-Project] [-StartupProject] [<CommonParameters>]
+dotnet ef dbcontext scaffold "Server=(localdb)\MSSQLLocalDB;Database=PlannerDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -o Models
+::Scaffold-DbContext "Server=(localdb)\MSSQLLocalDB;Database=PlannerDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models

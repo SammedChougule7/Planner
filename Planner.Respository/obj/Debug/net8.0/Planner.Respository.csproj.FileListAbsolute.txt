@@ -1,0 +1,15 @@
+C:\Users\choug\source\repos\Planner\Planner.Respository\bin\Debug\net8.0\Planner.Respository.deps.json
+C:\Users\choug\source\repos\Planner\Planner.Respository\bin\Debug\net8.0\Planner.Respository.runtimeconfig.json
+C:\Users\choug\source\repos\Planner\Planner.Respository\bin\Debug\net8.0\Planner.Respository.dll
+C:\Users\choug\source\repos\Planner\Planner.Respository\bin\Debug\net8.0\Planner.Respository.pdb
+C:\Users\choug\source\repos\Planner\Planner.Respository\obj\Debug\net8.0\Planner.Respository.csproj.AssemblyReference.cache
+C:\Users\choug\source\repos\Planner\Planner.Respository\obj\Debug\net8.0\Planner.Respository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choug\source\repos\Planner\Planner.Respository\obj\Debug\net8.0\Planner.Respository.AssemblyInfoInputs.cache
+C:\Users\choug\source\repos\Planner\Planner.Respository\obj\Debug\net8.0\Planner.Respository.AssemblyInfo.cs
+C:\Users\choug\source\repos\Planner\Planner.Respository\obj\Debug\net8.0\Planner.Respository.csproj.CoreCompileInputs.cache
+C:\Users\choug\source\repos\Planner\Planner.Respository\obj\Debug\net8.0\Planner.Respository.sourcelink.json
+C:\Users\choug\source\repos\Planner\Planner.Respository\obj\Debug\net8.0\Planner.Respository.dll
+C:\Users\choug\source\repos\Planner\Planner.Respository\obj\Debug\net8.0\refint\Planner.Respository.dll
+C:\Users\choug\source\repos\Planner\Planner.Respository\obj\Debug\net8.0\Planner.Respository.pdb
+C:\Users\choug\source\repos\Planner\Planner.Respository\obj\Debug\net8.0\Planner.Respository.genruntimeconfig.cache
+C:\Users\choug\source\repos\Planner\Planner.Respository\obj\Debug\net8.0\ref\Planner.Respository.dll

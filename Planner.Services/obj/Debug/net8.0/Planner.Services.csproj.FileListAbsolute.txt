@@ -1,0 +1,16 @@
+C:\Users\choug\source\repos\Planner\Planner.Services\bin\Debug\net8.0\Planner.Services.deps.json
+C:\Users\choug\source\repos\Planner\Planner.Services\bin\Debug\net8.0\Planner.Services.dll
+C:\Users\choug\source\repos\Planner\Planner.Services\bin\Debug\net8.0\Planner.Services.pdb
+C:\Users\choug\source\repos\Planner\Planner.Services\bin\Debug\net8.0\Planner.Respository.dll
+C:\Users\choug\source\repos\Planner\Planner.Services\bin\Debug\net8.0\Planner.Respository.pdb
+C:\Users\choug\source\repos\Planner\Planner.Services\obj\Debug\net8.0\Planner.Services.csproj.AssemblyReference.cache
+C:\Users\choug\source\repos\Planner\Planner.Services\obj\Debug\net8.0\Planner.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choug\source\repos\Planner\Planner.Services\obj\Debug\net8.0\Planner.Services.AssemblyInfoInputs.cache
+C:\Users\choug\source\repos\Planner\Planner.Services\obj\Debug\net8.0\Planner.Services.AssemblyInfo.cs
+C:\Users\choug\source\repos\Planner\Planner.Services\obj\Debug\net8.0\Planner.Services.csproj.CoreCompileInputs.cache
+C:\Users\choug\source\repos\Planner\Planner.Services\obj\Debug\net8.0\Planner.Services.sourcelink.json
+C:\Users\choug\source\repos\Planner\Planner.Services\obj\Debug\net8.0\Planner.Services.csproj.CopyComplete
+C:\Users\choug\source\repos\Planner\Planner.Services\obj\Debug\net8.0\Planner.Services.dll
+C:\Users\choug\source\repos\Planner\Planner.Services\obj\Debug\net8.0\refint\Planner.Services.dll
+C:\Users\choug\source\repos\Planner\Planner.Services\obj\Debug\net8.0\Planner.Services.pdb
+C:\Users\choug\source\repos\Planner\Planner.Services\obj\Debug\net8.0\ref\Planner.Services.dll
