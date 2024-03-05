@@ -1,0 +1,31 @@
+﻿CREATE DATABASE PlannerDB
+GO
+
+USE [PlannerDB]
+GO
+
+CREATE TABLE User_Master (
+	UM_userID bigint PRIMARY KEY,
+    UM_email VARCHAR(255),
+    UM_firstName VARCHAR(100),
+    UM_lastName VARCHAR(100),
+	UM_isActive BIT,
+	UM_createdOn DATETIME,
+	UM_modifiedOn DATETIME
+	)
+
+GO
+
+CREATE TABLE TaskDetails
+(
+	TD_taskID bigint PRIMARY KEY,
+	TD_UM_userID bigint NOT NULL,
+	TD_title VARCHAR(100),
+	TD_description VARCHAR(5000),
+	TD_progress VARCHAR(100),
+	TD_startDate DATETIME,
+	TD_dueDate DATETIME,
+	TD_createdDate DATETIME,
+	TD_modifiedDate DATETIME,
+	FOREIGN KEY (TD_taskID) REFERENCES  User_Master(UM_userID)
+)
